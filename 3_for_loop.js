@@ -10,4 +10,4 @@ for (let i=1; i<=n; i++)
 
 //Run on terminal
 //npm install node
-//node for_loop.js 5
+//node 3_for_loop.js 5
