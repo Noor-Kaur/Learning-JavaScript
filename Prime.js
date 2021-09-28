@@ -17,3 +17,5 @@ if(isprime == true)
     console.log("not prime ")
 }
 
+//Run on terminal
+//node condition.js 3
