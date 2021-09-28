@@ -8,3 +8,6 @@ if(i%2 == 0){
 }else{
     console.log("odd");
 }
+
+//Run on terminal
+//node condition.js 8
