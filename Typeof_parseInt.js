@@ -14,3 +14,6 @@ let j = parseInt(i);
 i=i+2;
 console.log(j);
 console.log(typeof(j));
+
+//Run on terminal
+//node condition.js 5
