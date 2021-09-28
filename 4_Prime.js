@@ -18,4 +18,4 @@ if(isprime == true)
 }
 
 //Run on terminal
-//node condition.js 3
+//node 4_Prime.js 3
