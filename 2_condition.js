@@ -10,4 +10,4 @@ if(i%2 == 0){
 }
 
 //Run on terminal
-//node condition.js 8
+//node 2_condition.js 8
