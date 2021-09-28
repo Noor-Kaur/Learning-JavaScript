@@ -20,4 +20,4 @@ for(let i=0; i<n; i++)
 
 //Run on terminal
 //npm install node
-//node pattern1.js 5
+//node 5_pattern1.js 5
