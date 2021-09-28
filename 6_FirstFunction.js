@@ -27,4 +27,4 @@
 
  //Run on terminal
  //npm install node
- //node FirstFunvtion.js 9
+ //node 6_FirstFunvtion.js 9
