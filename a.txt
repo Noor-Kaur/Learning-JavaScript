@@ -1,0 +1,1 @@
+My name is Noor and this is my Repository learning basics of JavaScript.
